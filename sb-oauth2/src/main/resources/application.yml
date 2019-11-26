@@ -1,0 +1,12 @@
+security:
+  oauth2:
+    client:
+      clientId: savila
+      clientSecret: savila
+    resource:
+      tokenInfoUri: http://localhost:8080/oauth/introspect
+server:
+   port: 8081
+logging:
+  level:
+    root: DEBUG

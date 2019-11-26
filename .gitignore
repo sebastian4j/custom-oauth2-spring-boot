@@ -1,0 +1,8 @@
+**/target/
+**/.mvn
+**/.settings
+**/nb-configuration.xml
+**/nbactions.xml
+**/mvn*
+**/.project
+**/.classpath
