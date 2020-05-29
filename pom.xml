@@ -17,5 +17,6 @@
     <modules>
         <module>quarkus-oauth2</module>
         <module>sb-oauth2</module>
+        <module>qk-oauth2</module>
     </modules>    
 </project>
