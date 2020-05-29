@@ -6,3 +6,4 @@
 **/mvn*
 **/.project
 **/.classpath
+/qk-oauth2/.dockerignore
